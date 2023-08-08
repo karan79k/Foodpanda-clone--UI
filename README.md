@@ -60,6 +60,4 @@ We welcome contributions from the community that could help enhance the Food Pan
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Experience the ease of ordering your favorite meals with Food Panda! Visit the live demo [here](https://www.foodpandaclone.com) and explore the ordering process. If you have any questions or feedback, feel free to open an issue in this repository. Bon appétit! 🍕🍔🍣
+---If you have any questions or feedback, feel free to open an issue in this repository. Bon appétit! 🍕🍔🍣
