@@ -1,7 +1,9 @@
 # Food Panda - A Desktop Clone of Food Delivery Website Fronted Design
 
 Welcome to the official repository of **Food Panda**, a fast and efficient food delivery web application inspired by the popular Foodpanda platform. This project aims to provide users with a convenient way to order their favorite meals from a variety of restaurants, all within a user-friendly desktop interface. Please note that the current version is optimized for desktop use and is not yet responsive for all devices.
-Cheak out the Clone -->> https://foodpanda-karansaket7974-gmailcom.vercel.app/ (click)
+==========================================================================================
+Check out the Clone -->> https://foodpanda-karansaket7974-gmailcom.vercel.app/ (click)  ||
+==========================================================================================
 
 # Preview
 ![Home-foodpanda-food-and-more](https://github.com/karan79k/Foodpanda-clone--UI/assets/123332277/3ed69383-c6fd-48df-b293-16281ce96ec9)
