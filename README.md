@@ -2,7 +2,9 @@
 
 Welcome to the official repository of **Food Panda**, a fast and efficient food delivery web application inspired by the popular Foodpanda platform. This project aims to provide users with a convenient way to order their favorite meals from a variety of restaurants, all within a user-friendly desktop interface. Please note that the current version is optimized for desktop use and is not yet responsive for all devices.
 
-![Food Panda]
+# Preview
+![Home-foodpanda-food-and-more](https://github.com/karan79k/Foodpanda-clone--UI/assets/123332277/3ed69383-c6fd-48df-b293-16281ce96ec9)
+
 
 ## Table of Contents
 
